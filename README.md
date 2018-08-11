@@ -65,5 +65,5 @@ Imagens feitas no software de projeção autocad.
 # Distribuição Lógica
 
 ### Esquema lógico
-![distriuicao](Imagens/distribuicao-logica.jpg)
+![distriuicao](Imagens/distribuicao-logica.png)
 
