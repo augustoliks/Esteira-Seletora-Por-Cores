@@ -8,6 +8,8 @@ Este projeto com as devidas modificações poderá ser utilizado em industrias, 
 
 ### Tecnologias utilizadas
 
+ARDUINO UNO, SENSOR RGB (DATASHEET TC3200), MOTOR DC (PARA-BRISA). MÓDULO RELÉ, DISPLAY LCD, SERVO MOTOR (MG996R), LASER, SENSOR LDR (LIGHT DEPENDENT RESISTOR).
+
 ---
 
 # Imagens
@@ -67,3 +69,10 @@ Imagens feitas no software de projeção autocad.
 ### Esquema lógico
 ![distriuicao](Imagens/distribuicao-logica.png)
 
+---
+
+# Fluxograma de processo
+
+![distriuicao](Imagens/fluxograma.jpg)
+
+---
