@@ -58,12 +58,12 @@ Imagens feitas no software de projeção autocad.
 ---
 
 ### Isométrica Sólido
-![planta](Imagens/solido.jpg)
+![isosolid](Imagens/solido.jpg)
 
 ---
 
 # Distribuição Lógica
 
 ### Esquema lógico
-![planta](/Imagens/distribuicao-logica.jpg)
+![distriuicao](Imagens/distribuicao-logica.jpg)
 
